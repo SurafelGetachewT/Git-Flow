@@ -1,7 +1,5 @@
 # Git-Flow
 
-# Project Name
-
 > Description the project.
 
 
